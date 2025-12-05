@@ -55,3 +55,10 @@ BORCAE/
 ├── utils.py                 # NMSE metric, loaders, plotting
 ├── requirements.txt         # Dependencies
 └── README.md
+```
+## 👨‍💻 Authors
+
+**Abhishek Singh**  
+B.Tech, Computer Science and Engineering, IIIT Bhagalpur  
+Research Collaborator – IIT (BHU) Varanasi & Stanford University  
+📧 abhisheksingh.iiitbh@gmail.com  
